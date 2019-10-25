@@ -21,6 +21,7 @@ border-right:1px solid gray;
 width:130px;
 margin:5px;
 padding:25px;
+font-size: 30px;
 }
 #grid{
 display: grid;
